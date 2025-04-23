@@ -18,6 +18,8 @@
         </header>
     <?php endif; ?>
 
+    <!-- wrapped img inside anchor tag, where the anchor tag is not empty -->
+
     <?php if ($body = $slots->body()): ?>
         <?= $body ?>
     <?php else: ?>
