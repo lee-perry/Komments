@@ -10,3 +10,5 @@
     <?php endslot(); ?>
     <?php endif; ?>
 <?php endsnippet(); ?>
+
+<!-- I have removed the <ul> block around the replies foreach loop -->
