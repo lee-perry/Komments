@@ -22,3 +22,5 @@ function addReply($comment, $comments)
         endforeach; ?>
     </ul>
 <?php endif; ?>
+
+<!-- I see no changes to comments list -->
