@@ -8,3 +8,5 @@
     </ul>
 <?php endif; ?>
 <?php endif; ?>
+
+<!-- Wrapped inside conditional empty test, added title -->
